@@ -1,0 +1,17 @@
+{
+    "Name": "[CP] StarAmys Modern Patterned Wallpapers",
+    "Author": "StarAmy",
+    "Version": "1.0.0",
+    "Description": "Adds new patterned wallpapers via custom wallpaper framework.",
+    "UniqueID": "StarAmy.ModernWallpaper",
+    "MinimumApiVersion": "3.13.0",
+    "ContentPackFor": {
+       "UniqueID": "Pathoschild.ContentPatcher"
+    },
+	"Dependencies": [
+		{
+			"UniqueID": "aedenthorn.CustomWallpaperFramework",
+			"IsRequired": true
+		}
+	]
+ }

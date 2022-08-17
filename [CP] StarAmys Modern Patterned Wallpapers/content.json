@@ -1,0 +1,690 @@
+{
+	"Format": "1.25.0",
+	"Changes": [
+		{
+			"Action": "EditData",
+			"Target": "Data/AdditionalWallpaperFlooring",
+			"Entries": {
+				"StarAmy.StarAmy.Silver_Oval_Wallpaper": {
+					"ID": "StarAmy.Silver_Oval_Wallpaper",
+					"Texture": "StarAmy.StarAmy.Silver_Oval_Wallpaper/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.StarAmy.Charcoal_Oval_Wallpaper": {
+					"ID": "StarAmy.Charcoal_Oval_Wallpaper",
+					"Texture": "StarAmy.StarAmy.Charcoal_Oval_Wallpaper/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.StarAmy.Red_Oval_Wallpaper": {
+					"ID": "StarAmy.Red_Oval_Wallpaper",
+					"Texture": "StarAmy.StarAmy.Red_Oval_Wallpaper/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.StarAmy.Pink_Oval_Wallpaper": {
+					"ID": "StarAmy.Pink_Oval_Wallpaper",
+					"Texture": "StarAmy.StarAmy.Pink_Oval_Wallpaper/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.StarAmy.Green_Oval_Wallpaper": {
+					"ID": "StarAmy.Green_Oval_Wallpaper",
+					"Texture": "StarAmy.StarAmy.Green_Oval_Wallpaper/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.StarAmy.Teal_Oval_Wallpaper": {
+					"ID": "StarAmy.Teal_Oval_Wallpaper",
+					"Texture": "StarAmy.StarAmy.Teal_Oval_Wallpaper/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.StarAmy.Blue_Oval_Wallpaper": {
+					"ID": "StarAmy.Blue_Oval_Wallpaper",
+					"Texture": "StarAmy.StarAmy.Blue_Oval_Wallpaper/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.StarAmy.Purple_Oval_Wallpaper": {
+					"ID": "StarAmy.Purple_Oval_Wallpaper",
+					"Texture": "StarAmy.StarAmy.Purple_Oval_Wallpaper/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.StarAmy.Silver_Drips_Wallpaper": {
+					"ID": "StarAmy.Silver_Drips_Wallpaper",
+					"Texture": "StarAmy.StarAmy.Silver_Drips_Wallpaper/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.StarAmy.Charcoal_Drips_Wallpaper": {
+					"ID": "StarAmy.Charcoal_Drips_Wallpaper",
+					"Texture": "StarAmy.StarAmy.Charcoal_Drips_Wallpaper/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.StarAmy.Red_Drips_Wallpaper": {
+					"ID": "StarAmy.Red_Drips_Wallpaper",
+					"Texture": "StarAmy.StarAmy.Red_Drips_Wallpaper/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.StarAmy.Pink_Drips_Wallpaper": {
+					"ID": "StarAmy.Pink_Drips_Wallpaper",
+					"Texture": "StarAmy.StarAmy.Pink_Drips_Wallpaper/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.StarAmy.Green_Drips_Wallpaper": {
+					"ID": "StarAmy.Green_Drips_Wallpaper",
+					"Texture": "StarAmy.StarAmy.Green_Drips_Wallpaper/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.StarAmy.Teal_Drips_Wallpaper": {
+					"ID": "StarAmy.Teal_Drips_Wallpaper",
+					"Texture": "StarAmy.StarAmy.Teal_Drips_Wallpaper/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.StarAmy.Blue_Drips_Wallpaper": {
+					"ID": "StarAmy.Blue_Drips_Wallpaper",
+					"Texture": "StarAmy.StarAmy.Blue_Drips_Wallpaper/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.StarAmy.Purple_Drips_Wallpaper": {
+					"ID": "StarAmy.Purple_Drips_Wallpaper",
+					"Texture": "StarAmy.StarAmy.Purple_Drips_Wallpaper/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.StarAmy.Silver_Waves_Wallpaper": {
+					"ID": "StarAmy.Silver_Waves_Wallpaper",
+					"Texture": "StarAmy.StarAmy.Silver_Waves_Wallpaper/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.StarAmy.Charcoal_Waves_Wallpaper": {
+					"ID": "StarAmy.Charcoal_Waves_Wallpaper",
+					"Texture": "StarAmy.StarAmy.Charcoal_Waves_Wallpaper/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.StarAmy.Red_Waves_Wallpaper": {
+					"ID": "StarAmy.Red_Waves_Wallpaper",
+					"Texture": "StarAmy.StarAmy.Red_Waves_Wallpaper/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.StarAmy.Pink_Waves_Wallpaper": {
+					"ID": "StarAmy.Pink_Waves_Wallpaper",
+					"Texture": "StarAmy.StarAmy.Pink_Waves_Wallpaper/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.StarAmy.Light_Waves_Wallpaper": {
+					"ID": "StarAmy.Light_Waves_Wallpaper",
+					"Texture": "StarAmy.StarAmy.Light_Waves_Wallpaper/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.StarAmy.Teal_Waves_Wallpaper": {
+					"ID": "StarAmy.Teal_Waves_Wallpaper",
+					"Texture": "StarAmy.StarAmy.Teal_Waves_Wallpaper/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.StarAmy.Blue_Waves_Wallpaper": {
+					"ID": "StarAmy.Blue_Waves_Wallpaper",
+					"Texture": "StarAmy.StarAmy.Blue_Waves_Wallpaper/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.StarAmy.Purple_Waves_Wallpaper": {
+					"ID": "StarAmy.Purple_Waves_Wallpaper",
+					"Texture": "StarAmy.StarAmy.Purple_Waves_Wallpaper/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.StarAmy.Silver_Geometric_Wallpaper": {
+					"ID": "StarAmy.Silver_Geometric_Wallpaper",
+					"Texture": "StarAmy.StarAmy.Silver_Geometric_Wallpaper/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.StarAmy.Charcoal_Geometric_Wallpaper": {
+					"ID": "StarAmy.Charcoal_Geometric_Wallpaper",
+					"Texture": "StarAmy.StarAmy.Charcoal_Geometric_Wallpaper/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.StarAmy.Red_Geometric_Wallpaper": {
+					"ID": "StarAmy.Red_Geometric_Wallpaper",
+					"Texture": "StarAmy.StarAmy.Red_Geometric_Wallpaper/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.StarAmy.Pink_Geometric_Wallpaper": {
+					"ID": "StarAmy.Pink_Geometric_Wallpaper",
+					"Texture": "StarAmy.StarAmy.Pink_Geometric_Wallpaper/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.StarAmy.Green_Geometric_Wallpaper": {
+					"ID": "StarAmy.Green_Geometric_Wallpaper",
+					"Texture": "StarAmy.StarAmy.Green_Geometric_Wallpaper/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.StarAmy.Teal_Geometric_Wallpaper": {
+					"ID": "StarAmy.Teal_Geometric_Wallpaper",
+					"Texture": "StarAmy.StarAmy.Teal_Geometric_Wallpaper/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.StarAmy.Blue_Geometric_Wallpaper": {
+					"ID": "StarAmy.Blue_Geometric_Wallpaper",
+					"Texture": "StarAmy.StarAmy.Blue_Geometric_Wallpaper/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.StarAmy.Purple_Geometric_Wallpaper": {
+					"ID": "StarAmy.Purple_Geometric_Wallpaper",
+					"Texture": "StarAmy.StarAmy.Purple_Geometric_Wallpaper/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Silver_Oval_Wallpaper/Wallpaper",
+			"FromFile": "assets/Silver_Oval_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Silver_Oval_Wallpaper/WallpaperIcon",
+			"FromFile": "assets/Silver_Oval_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Charcoal_Oval_Wallpaper/Wallpaper",
+			"FromFile": "assets/Charcoal_Oval_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Charcoal_Oval_Wallpaper/WallpaperIcon",
+			"FromFile": "assets/Charcoal_Oval_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Red_Oval_Wallpaper/Wallpaper",
+			"FromFile": "assets/Red_Oval_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Red_Oval_Wallpaper/WallpaperIcon",
+			"FromFile": "assets/Red_Oval_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Pink_Oval_Wallpaper/Wallpaper",
+			"FromFile": "assets/Pink_Oval_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Pink_Oval_Wallpaper/WallpaperIcon",
+			"FromFile": "assets/Pink_Oval_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Green_Oval_Wallpaper/Wallpaper",
+			"FromFile": "assets/Green_Oval_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Green_Oval_Wallpaper/WallpaperIcon",
+			"FromFile": "assets/Green_Oval_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Teal_Oval_Wallpaper/Wallpaper",
+			"FromFile": "assets/Teal_Oval_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Teal_Oval_Wallpaper/WallpaperIcon",
+			"FromFile": "assets/Teal_Oval_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Blue_Oval_Wallpaper/Wallpaper",
+			"FromFile": "assets/Blue_Oval_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Blue_Oval_Wallpaper/WallpaperIcon",
+			"FromFile": "assets/Blue_Oval_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Purple_Oval_Wallpaper/Wallpaper",
+			"FromFile": "assets/Purple_Oval_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Purple_Oval_Wallpaper/WallpaperIcon",
+			"FromFile": "assets/Purple_Oval_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Silver_Drips_Wallpaper/Wallpaper",
+			"FromFile": "assets/Silver_Drips_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Silver_Drips_Wallpaper/WallpaperIcon",
+			"FromFile": "assets/Silver_Drips_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Charcoal_Drips_Wallpaper/Wallpaper",
+			"FromFile": "assets/Charcoal_Drips_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Charcoal_Drips_Wallpaper/WallpaperIcon",
+			"FromFile": "assets/Charcoal_Drips_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Red_Drips_Wallpaper/Wallpaper",
+			"FromFile": "assets/Red_Drips_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Red_Drips_Wallpaper/WallpaperIcon",
+			"FromFile": "assets/Red_Drips_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Pink_Drips_Wallpaper/Wallpaper",
+			"FromFile": "assets/Pink_Drips_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Pink_Drips_Wallpaper/WallpaperIcon",
+			"FromFile": "assets/Pink_Drips_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Green_Drips_Wallpaper/Wallpaper",
+			"FromFile": "assets/Green_Drips_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Green_Drips_Wallpaper/WallpaperIcon",
+			"FromFile": "assets/Green_Drips_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Teal_Drips_Wallpaper/Wallpaper",
+			"FromFile": "assets/Teal_Drips_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Teal_Drips_Wallpaper/WallpaperIcon",
+			"FromFile": "assets/Teal_Drips_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Blue_Drips_Wallpaper/Wallpaper",
+			"FromFile": "assets/Blue_Drips_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Blue_Drips_Wallpaper/WallpaperIcon",
+			"FromFile": "assets/Blue_Drips_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Purple_Drips_Wallpaper/Wallpaper",
+			"FromFile": "assets/Purple_Drips_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Purple_Drips_Wallpaper/WallpaperIcon",
+			"FromFile": "assets/Purple_Drips_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Silver_Waves_Wallpaper/Wallpaper",
+			"FromFile": "assets/Silver_Waves_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Silver_Waves_Wallpaper/WallpaperIcon",
+			"FromFile": "assets/Silver_Waves_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Charcoal_Waves_Wallpaper/Wallpaper",
+			"FromFile": "assets/Charcoal_Waves_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Charcoal_Waves_Wallpaper/WallpaperIcon",
+			"FromFile": "assets/Charcoal_Waves_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Red_Waves_Wallpaper/Wallpaper",
+			"FromFile": "assets/Red_Waves_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Red_Waves_Wallpaper/WallpaperIcon",
+			"FromFile": "assets/Red_Waves_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Pink_Waves_Wallpaper/Wallpaper",
+			"FromFile": "assets/Pink_Waves_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Pink_Waves_Wallpaper/WallpaperIcon",
+			"FromFile": "assets/Pink_Waves_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Light_Waves_Wallpaper/Wallpaper",
+			"FromFile": "assets/Light_Waves_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Light_Waves_Wallpaper/WallpaperIcon",
+			"FromFile": "assets/Light_Waves_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Teal_Waves_Wallpaper/Wallpaper",
+			"FromFile": "assets/Teal_Waves_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Teal_Waves_Wallpaper/WallpaperIcon",
+			"FromFile": "assets/Teal_Waves_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Blue_Waves_Wallpaper/Wallpaper",
+			"FromFile": "assets/Blue_Waves_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Blue_Waves_Wallpaper/WallpaperIcon",
+			"FromFile": "assets/Blue_Waves_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Purple_Waves_Wallpaper/Wallpaper",
+			"FromFile": "assets/Purple_Waves_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Purple_Waves_Wallpaper/WallpaperIcon",
+			"FromFile": "assets/Purple_Waves_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Silver_Geometric_Wallpaper/Wallpaper",
+			"FromFile": "assets/Silver_Geometric_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Silver_Geometric_Wallpaper/WallpaperIcon",
+			"FromFile": "assets/Silver_Geometric_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Charcoal_Geometric_Wallpaper/Wallpaper",
+			"FromFile": "assets/Charcoal_Geometric_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Charcoal_Geometric_Wallpaper/WallpaperIcon",
+			"FromFile": "assets/Charcoal_Geometric_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Red_Geometric_Wallpaper/Wallpaper",
+			"FromFile": "assets/Red_Geometric_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Red_Geometric_Wallpaper/WallpaperIcon",
+			"FromFile": "assets/Red_Geometric_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Pink_Geometric_Wallpaper/Wallpaper",
+			"FromFile": "assets/Pink_Geometric_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Pink_Geometric_Wallpaper/WallpaperIcon",
+			"FromFile": "assets/Pink_Geometric_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Green_Geometric_Wallpaper/Wallpaper",
+			"FromFile": "assets/Green_Geometric_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Green_Geometric_Wallpaper/WallpaperIcon",
+			"FromFile": "assets/Green_Geometric_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Teal_Geometric_Wallpaper/Wallpaper",
+			"FromFile": "assets/Teal_Geometric_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Teal_Geometric_Wallpaper/WallpaperIcon",
+			"FromFile": "assets/Teal_Geometric_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Blue_Geometric_Wallpaper/Wallpaper",
+			"FromFile": "assets/Blue_Geometric_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Blue_Geometric_Wallpaper/WallpaperIcon",
+			"FromFile": "assets/Blue_Geometric_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Purple_Geometric_Wallpaper/Wallpaper",
+			"FromFile": "assets/Purple_Geometric_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Purple_Geometric_Wallpaper/WallpaperIcon",
+			"FromFile": "assets/Purple_Geometric_Wallpaper.png"
+		},
+		{
+			"Action": "EditData",
+			"Target": "aedenthorn.CustomWallpaperFramework/dictionary",
+			"Entries": {
+				"StarAmy.StarAmy.Silver_Oval_Wallpaper": {
+					"id": "StarAmy.StarAmy.Silver_Oval_Wallpaper",
+					"texturePath": "StarAmy.StarAmy.Silver_Oval_Wallpaper/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.StarAmy.Charcoal_Oval_Wallpaper": {
+					"id": "StarAmy.StarAmy.Charcoal_Oval_Wallpaper",
+					"texturePath": "StarAmy.StarAmy.Charcoal_Oval_Wallpaper/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.StarAmy.Red_Oval_Wallpaper": {
+					"id": "StarAmy.StarAmy.Red_Oval_Wallpaper",
+					"texturePath": "StarAmy.StarAmy.Red_Oval_Wallpaper/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.StarAmy.Pink_Oval_Wallpaper": {
+					"id": "StarAmy.StarAmy.Pink_Oval_Wallpaper",
+					"texturePath": "StarAmy.StarAmy.Pink_Oval_Wallpaper/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.StarAmy.Green_Oval_Wallpaper": {
+					"id": "StarAmy.StarAmy.Green_Oval_Wallpaper",
+					"texturePath": "StarAmy.StarAmy.Green_Oval_Wallpaper/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.StarAmy.Teal_Oval_Wallpaper": {
+					"id": "StarAmy.StarAmy.Teal_Oval_Wallpaper",
+					"texturePath": "StarAmy.StarAmy.Teal_Oval_Wallpaper/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.StarAmy.Blue_Oval_Wallpaper": {
+					"id": "StarAmy.StarAmy.Blue_Oval_Wallpaper",
+					"texturePath": "StarAmy.StarAmy.Blue_Oval_Wallpaper/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.StarAmy.Purple_Oval_Wallpaper": {
+					"id": "StarAmy.StarAmy.Purple_Oval_Wallpaper",
+					"texturePath": "StarAmy.StarAmy.Purple_Oval_Wallpaper/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.StarAmy.Silver_Drips_Wallpaper": {
+					"id": "StarAmy.StarAmy.Silver_Drips_Wallpaper",
+					"texturePath": "StarAmy.StarAmy.Silver_Drips_Wallpaper/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.StarAmy.Charcoal_Drips_Wallpaper": {
+					"id": "StarAmy.StarAmy.Charcoal_Drips_Wallpaper",
+					"texturePath": "StarAmy.StarAmy.Charcoal_Drips_Wallpaper/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.StarAmy.Red_Drips_Wallpaper": {
+					"id": "StarAmy.StarAmy.Red_Drips_Wallpaper",
+					"texturePath": "StarAmy.StarAmy.Red_Drips_Wallpaper/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.StarAmy.Pink_Drips_Wallpaper": {
+					"id": "StarAmy.StarAmy.Pink_Drips_Wallpaper",
+					"texturePath": "StarAmy.StarAmy.Pink_Drips_Wallpaper/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.StarAmy.Green_Drips_Wallpaper": {
+					"id": "StarAmy.StarAmy.Green_Drips_Wallpaper",
+					"texturePath": "StarAmy.StarAmy.Green_Drips_Wallpaper/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.StarAmy.Teal_Drips_Wallpaper": {
+					"id": "StarAmy.StarAmy.Teal_Drips_Wallpaper",
+					"texturePath": "StarAmy.StarAmy.Teal_Drips_Wallpaper/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.StarAmy.Blue_Drips_Wallpaper": {
+					"id": "StarAmy.StarAmy.Blue_Drips_Wallpaper",
+					"texturePath": "StarAmy.StarAmy.Blue_Drips_Wallpaper/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.StarAmy.Purple_Drips_Wallpaper": {
+					"id": "StarAmy.StarAmy.Purple_Drips_Wallpaper",
+					"texturePath": "StarAmy.StarAmy.Purple_Drips_Wallpaper/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.StarAmy.Silver_Waves_Wallpaper": {
+					"id": "StarAmy.StarAmy.Silver_Waves_Wallpaper",
+					"texturePath": "StarAmy.StarAmy.Silver_Waves_Wallpaper/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.StarAmy.Charcoal_Waves_Wallpaper": {
+					"id": "StarAmy.StarAmy.Charcoal_Waves_Wallpaper",
+					"texturePath": "StarAmy.StarAmy.Charcoal_Waves_Wallpaper/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.StarAmy.Red_Waves_Wallpaper": {
+					"id": "StarAmy.StarAmy.Red_Waves_Wallpaper",
+					"texturePath": "StarAmy.StarAmy.Red_Waves_Wallpaper/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.StarAmy.Pink_Waves_Wallpaper": {
+					"id": "StarAmy.StarAmy.Pink_Waves_Wallpaper",
+					"texturePath": "StarAmy.StarAmy.Pink_Waves_Wallpaper/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.StarAmy.Light_Waves_Wallpaper": {
+					"id": "StarAmy.StarAmy.Light_Waves_Wallpaper",
+					"texturePath": "StarAmy.StarAmy.Light_Waves_Wallpaper/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.StarAmy.Teal_Waves_Wallpaper": {
+					"id": "StarAmy.StarAmy.Teal_Waves_Wallpaper",
+					"texturePath": "StarAmy.StarAmy.Teal_Waves_Wallpaper/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.StarAmy.Blue_Waves_Wallpaper": {
+					"id": "StarAmy.StarAmy.Blue_Waves_Wallpaper",
+					"texturePath": "StarAmy.StarAmy.Blue_Waves_Wallpaper/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.StarAmy.Purple_Waves_Wallpaper": {
+					"id": "StarAmy.StarAmy.Purple_Waves_Wallpaper",
+					"texturePath": "StarAmy.StarAmy.Purple_Waves_Wallpaper/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.StarAmy.Silver_Geometric_Wallpaper": {
+					"id": "StarAmy.StarAmy.Silver_Geometric_Wallpaper",
+					"texturePath": "StarAmy.StarAmy.Silver_Geometric_Wallpaper/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.StarAmy.Charcoal_Geometric_Wallpaper": {
+					"id": "StarAmy.StarAmy.Charcoal_Geometric_Wallpaper",
+					"texturePath": "StarAmy.StarAmy.Charcoal_Geometric_Wallpaper/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.StarAmy.Red_Geometric_Wallpaper": {
+					"id": "StarAmy.StarAmy.Red_Geometric_Wallpaper",
+					"texturePath": "StarAmy.StarAmy.Red_Geometric_Wallpaper/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.StarAmy.Pink_Geometric_Wallpaper": {
+					"id": "StarAmy.StarAmy.Pink_Geometric_Wallpaper",
+					"texturePath": "StarAmy.StarAmy.Pink_Geometric_Wallpaper/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.StarAmy.Green_Geometric_Wallpaper": {
+					"id": "StarAmy.StarAmy.Green_Geometric_Wallpaper",
+					"texturePath": "StarAmy.StarAmy.Green_Geometric_Wallpaper/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.StarAmy.Teal_Geometric_Wallpaper": {
+					"id": "StarAmy.StarAmy.Teal_Geometric_Wallpaper",
+					"texturePath": "StarAmy.StarAmy.Teal_Geometric_Wallpaper/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.StarAmy.Blue_Geometric_Wallpaper": {
+					"id": "StarAmy.StarAmy.Blue_Geometric_Wallpaper",
+					"texturePath": "StarAmy.StarAmy.Blue_Geometric_Wallpaper/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.StarAmy.Purple_Geometric_Wallpaper": {
+					"id": "StarAmy.StarAmy.Purple_Geometric_Wallpaper",
+					"texturePath": "StarAmy.StarAmy.Purple_Geometric_Wallpaper/Wallpaper",
+					"width": 1,
+				},
+			}
+		},
+
+	]
+}
